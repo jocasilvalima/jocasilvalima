@@ -28,7 +28,7 @@
 
 ![VSCODE](https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode&logoColor=white)&nbsp;
 ![ECLIPSE](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)&nbsp;
-![INTELLIJ](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Intellij&logoColor=white)&nbsp;
+![INTELLIJ](https://img.shields.io/badge/IntelliJ-FE7A10.svg?style=for-the-badge&logo=IntelliJ&logoColor=white)&nbsp;
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jocasilvalima&show_icons=true&theme=dark)
