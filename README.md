@@ -31,4 +31,17 @@
 ![INTELLIJ](https://img.shields.io/badge/IntelliJ-1414B8.svg?style=for-the-badge&logo=IntelliJ&logoColor=white)&nbsp;
 
 
+## CURRICULO:
+<a href="https://github.com/jocasilvalima/Meu_Curriculo/blob/main/Jo%C3%A3o%20Carlos%20Curr%C3%ADculo.pdf" target="_blank"><img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
+
+## CONTATOS:
+
+<div> 
+<a href="https://www.instagram.com/jocasilvalima/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+</a>
+<a href = "jocasilvalima@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/joao-carlos-lima/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a>  
+</div>&nbsp;&nbsp;
+
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jocasilvalima&show_icons=true&theme=dark)
